@@ -1,0 +1,1 @@
+My program contains code to raytrace a simple 3D scene that was provided. To compile my program simply type "make". This will create an executable called "raytrace". Then, to run my program, simply type "./raytrace". This will render the provided scene to a file called "output.ppm". 
